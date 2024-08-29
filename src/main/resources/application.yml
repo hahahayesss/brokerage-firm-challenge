@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: brokerage-firm-challenge
+
+security:
+  prefix: Bearer
+  secret-key: oqnzvzcdrdqyraketrrwwifyhtys
+  validity: 14400000
